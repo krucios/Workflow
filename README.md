@@ -45,5 +45,11 @@
 
 [ААП 03](https://github.com/BSU2013gr04Lego/Workflow/releases/download/task03/OOPlb03.pdf)
 
+[ААП 04](https://github.com/BSU2013gr04Lego/Workflow/releases/download/OOP04/OOPlb04.pdf)
+
+![Дыаграма класаў для лабраторнай 04](https://raw.githubusercontent.com/BSU2013gr04Lego/Workflow/master/pimplNVI.png)
+
+Клас ASD абстрактная структура дадзеных (у кагосьці гэта стэк, у кагосьці дрэва, у кагосьці, што іншае)
+
 ## Метадычкі
 [Малая метадычка па гіту](https://github.com/BSU2013gr4Lego/Example/releases/download/gitPdf/AboutGit.pdf)
