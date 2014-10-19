@@ -39,5 +39,9 @@
 
 Клас ASD абстрактная структура дадзеных (у кагосьці гэта стэк, у кагосьці дрэва, у кагосьці, што іншае)
 
+[Прыклад па 4 лабе](https://github.com/BSU2013gr04Lego/Workflow/tree/master/Examples/Lab04)
+
 ## Метадычкі
 [Малая метадычка па гіту](https://github.com/BSU2013gr4Lego/Example/releases/download/gitPdf/AboutGit.pdf)
+
+[Пачатак маіх лекцый па ААП для завочнікаў](https://github.com/BSU2013gr04Lego/Workflow/releases/download/forNewbie/LekciiAAP1.pdf)
