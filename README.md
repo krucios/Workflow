@@ -41,6 +41,8 @@
 
 [Прыклад па 4 лабе](https://github.com/BSU2013gr04Lego/Workflow/tree/master/Examples/Lab04)
 
+[ААП 05](https://github.com/BSU2013gr04Lego/Workflow/releases/download/polimorphism/Polimorfizm.pdf)
+
 ## Метадычкі
 [Малая метадычка па гіту](https://github.com/BSU2013gr4Lego/Example/releases/download/gitPdf/AboutGit.pdf)
 
